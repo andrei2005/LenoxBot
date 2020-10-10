@@ -1,8 +1,8 @@
 {
-    "owners": ["Required", "UserID", "UserID"],
+    "owners": ["752941130936483970", "UserID", "UserID"],
     "administrators": ["UserID", "UserID", "UserID"],
-    "token": "Required. Your Super Secret Token",
-    "prefix": "Required. Standard Prefix",
+    "token": "NjkyMDQ3MzM3OTU0MDgyODU2.Xno1Tg.CYLaH-uBHSlFkBu6OWPb6o4s3Zg",
+    "prefix": "$",
     "auddKey": "Audd Lyrics API Key",
     "googleKey": "Google Custom Search API Key",
     "googlekey": "Youtube API key",
@@ -20,7 +20,7 @@
 		"port": "Required. db port (Example: 27017)"
     },
     "dblAuthorization": "Autorization Code for API verification",
-    "botMainDiscordServer": "Required. The main/support Discord Server ID of this bot",
+    "botMainDiscordServer": "https://discord.gg/NnxGCcn",
     "log_channels": {
 	    "logs": "channel id to log console logs to",
 	    "warnings": "channel id to log console warnings to",
